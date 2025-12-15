@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #0f172a;
+  color: #f8fafc;
+  line-height: 1.6;
+}
+
+header.hero {
+  background: linear-gradient(135deg, #020617, #1e293b);
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 15px;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: auto;
+  color: #cbd5f5;
+}
+
+.sub {
+  margin-top: 10px;
+  color: #94a3b8;
+}
+
+section {
+  max-width: 1000px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+h2 {
+  color: #93c5fd;
+  margin-bottom: 25px;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #e5e7eb;
+}
+
+ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+li {
+  padding: 6px 0;
+  border-bottom: 1px solid #334155;
+}
+
+.pricing {
+  background: #020617;
+  border-radius: 8px;
+}
+
+.price-box {
+  background: #0f172a;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+
+.price {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.faq {
+  background: #020617;
+  border-radius: 8px;
+}
+
+.faq-item {
+  background: #0f172a;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.contact {
+  text-align: center;
+}
+
+footer {
+  background: #020617;
+  text-align: center;
+  padding: 20px;
+  color: #94a3b8;
+}
